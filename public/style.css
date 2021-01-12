@@ -2,7 +2,7 @@ body {
     font-family: "Montserrat", sans-serif;
     font-weight: 400;
     line-height: 1.666;
-    background: #c0d2d4;
+    background: #313131;
     color: #555;
 }
 
@@ -17,7 +17,7 @@ h1 {
   
 h1 span {
     padding: 5px 15px;
-    background: #2ec2b0;
+   
 }
   
 .dictionary {
@@ -47,7 +47,7 @@ h1 span {
 }
   
 dt {
-    color: #2ec2b0;
+    color: #313131;
     line-height: 1;
 }
   
